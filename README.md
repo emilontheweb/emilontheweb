@@ -1,6 +1,6 @@
 
 
-![banner-image](https://github.com/emilontheweb/emilontheweb/assets/Frame 1.png)
+![banner-image](https://github.com/emilontheweb/emilontheweb/assets/Frame1.png)
 
 ## Hi, I'm Emil Englesson
 
