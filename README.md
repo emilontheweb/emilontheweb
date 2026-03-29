@@ -5,7 +5,7 @@
 ## Hi, I'm Emil Englesson
 
 ### About me
-I'm always in pursuit of finding solutions and like to veiw myself as a **technical problem solver**. I love to explore new technologies that expand my professional knowledge in my journey to  become a fullstack developer/engineer. 
+I love to explore new technologies to expand my professional knowledge in my journey to become a fullstack developer. I'm always in pursuit of finding solutions and like to view myself as a **technical problem solver**. 
 
 I'm based in Kristianstad, Skåne and is currently looking for developer opportunities around Skåne, Blekinge or Kronoberg. 
 Feel free to reach out and let's have a chat!
