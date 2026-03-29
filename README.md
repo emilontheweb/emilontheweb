@@ -10,8 +10,8 @@ I'm always in pursuit of finding solutions and like to veiw myself as a **techni
 I'm based in Kristianstad, Skåne and is currently looking for developer/engineering opportunities around Skåne, Blekinge or Kronoberg. 
 Feel free to reach out and let's have a chat!
 
-* Contact me: [Emil Englesson](mailto:emil@emilontheweb.dev?subject=Contact%20Request)
-* LinkedIn: [emil-englesson-dev](https://www.linkedin.com/in/emil-englesson-dev)
+* Contact me: mailto:emil@emilontheweb.dev
+* LinkedIn: https://www.linkedin.com/in/emil-englesson-dev
 
 ---
 ### Languages and Tools
